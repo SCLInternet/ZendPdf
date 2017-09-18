@@ -1,5 +1,5 @@
 {
-    "name": "zendframework/zendpdf",
+    "name": "sclinternet/zendpdf",
     "description": "Zend Pdf Component",
     "type": "library",
     "license": "BSD-3-Clause",
@@ -13,12 +13,6 @@
             "ZendPdf\\": "library/"
         }
     },
-    "repositories": [
-        {
-            "type": "composer",
-            "url": "http://packages.zendframework.com/"
-        }
-    ],
     "require": {
         "php": ">=5.3.3",
         "zendframework/zend-memory": ">=2.0.0",
